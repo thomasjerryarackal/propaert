@@ -1,6 +1,5 @@
+# propaert
 
-# pass1
-new commented one
 A new Flutter application.
 
 ## Getting Started
